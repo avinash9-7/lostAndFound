@@ -31,7 +31,7 @@ export default function Register() {
       </form>
 
       <p className="text-center mt-3">
-        Already have account? <a href="/">Login</a>
+        Already have account? <Link to="/">Login</Link>
       </p>
     </div>
   </div>

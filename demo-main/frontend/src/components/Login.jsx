@@ -33,7 +33,7 @@ export default function Login() {
       </form>
 
       <p className="text-center mt-3">
-        New user? <a href="/register">Register</a>
+        New user? <Link to="/register">Register</Link>
       </p>
     </div>
   </div>
