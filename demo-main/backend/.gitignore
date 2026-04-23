@@ -1,0 +1,4 @@
+node_modules/
+
+# Environment variables (Never upload this, it contains your passwords and secrets)
+.env
